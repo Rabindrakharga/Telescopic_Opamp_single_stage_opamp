@@ -1,0 +1,1 @@
+# Telescopic_Opamp_single_stage_opamp
